@@ -40,7 +40,7 @@ class AuthPage extends StatelessWidget {
                     Padding(
                       padding: const EdgeInsets.fromLTRB(20, 10, 20, 10),
                       child: Text(
-                        'Informe o código enviado para o número xxxx-xxxxx:',
+                        'Informe o código enviado para o número x:',
                         style: TextStyle(
                           fontSize: 18,
                           color: Colors.grey[700],
